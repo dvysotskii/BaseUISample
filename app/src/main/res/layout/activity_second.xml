@@ -16,6 +16,17 @@
         android:layout_height="wrap_content"
         android:text="remove first fragment" />
 
+    <Button
+        android:id="@+id/make_request_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="show text in toast" />
+
+    <TextView
+        android:id="@+id/text_tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
     <FrameLayout
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"

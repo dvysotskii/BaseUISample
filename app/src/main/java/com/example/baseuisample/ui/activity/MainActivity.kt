@@ -1,4 +1,4 @@
-package com.example.baseuisample.activity
+package com.example.baseuisample.ui.activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

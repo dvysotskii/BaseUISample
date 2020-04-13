@@ -1,2 +1,2 @@
-include ':app', ':newmodule'
+include ':app'
 rootProject.name='BaseUISample'
